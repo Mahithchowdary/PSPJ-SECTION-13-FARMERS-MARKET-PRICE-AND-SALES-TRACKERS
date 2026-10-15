@@ -19,26 +19,56 @@ ADVANTAGES OF FARMERS MARKETS PRICES & SALES TRACKERS
 10.	Supports Better Record Keeping – Maintaining sales information can help farmers understand their daily business activities and manage their products more effectively.
 	
 
-TOPICS Taken form C01,C02,C03: 
-1. CO-1:
-· Basic Java structure
-· Class and main method
-· Variables and data types
-· Input and output
-· Scanner
-· Strings
-· Arithmetic operators
-· Assignment operators
-2. CO-2:
-· for loop
-· Increment operator
-· User input processing
-· Repetition of statements
-3. CO-3:
-· Problem solving
-· Data processing
-· Calculations
-· Modular implementation
-· Program testing and output
-These are the concepts actually used in the Farmers' Market Price & Sales Tracker code.
+### 1. CO-1: Basic Java Programming
+- Basic Java structure
+- Class and main method
+- Variables and data types
+- Input and output statements
+- Scanner class
+- Strings
+- Arithmetic operators
+- Assignment operators
+
+### 2. CO-2: Control Statements and Loops
+- `for` loop
+- Increment operator
+- User input processing
+- Repetition of statements
+- Conditional statements (`if`)
+- `continue` statement
+- Repeated product entry
+
+### 3. CO-3: Problem Solving and Modular Programming
+- Problem-solving techniques
+- Data processing
+- Sales calculations
+- Modular implementation using classes and constructors
+- Program testing and output verification
+- Calculation of total sales
+
+### 4. CO-4: Object-Oriented Programming
+- Classes and objects
+- Constructors
+- Instance variables
+- Object creation using the `new` keyword
+- Encapsulation of product details in a class
+- Storing product information using objects
+
+### 5. CO-5: Collections and Exception Handling
+- ArrayList collection
+- Storing multiple product objects
+- Exception handling using `try` and `catch`
+- `InputMismatchException`
+- `finally` block
+- Resource management using `Scanner.close()`
+
+### 6. CO-6: Lambda Expressions, Streams and Data Pipelines
+- Lambda expressions
+- Java Stream API
+- Data processing using `stream()`
+- Filtering products using `filter()`
+- Sorting products using `sorted()`
+- Calculating total sales using `mapToDouble()` and `sum()`
+- Displaying results using `forEach()`
+- Data pipeline: input, storage, processing and output
 
